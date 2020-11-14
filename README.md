@@ -6,7 +6,7 @@ https://www.kaggle.com/paulok98/projeto-1-talus
 
 ## Metas para a entrega 15/11
 * Ter conhecimento básico de arquivos do tipo .dcm
-* Leitura e análise premilinar do dataset
+* Leitura e análise preliminar do dataset
 * Ter conhecimento básico sobre CNN, Tensor Flow e Keras
 
 
