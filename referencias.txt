@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=KNAWp2S3w94
+https://www.youtube.com/watch?v=bemDFpNooA8
+https://www.youtube.com/watch?v=x_VrgWTKkiM&t=7s
+
+
+https://www.tensorflow.org/io/tutorials/dicom
+https://whatis.techtarget.com/definition/voxel#:~:text=A%20voxel%20is%20a%20unit,third%20z%20coordinate%20is%20needed.
+https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-i-23d518abf531
+https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-ii-166532e964e6
+https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-iii-eb01cc219aa2#_=_
+https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-iv-479b5fa446e7
+
+
+https://www.kaggle.com/seraphwedd18/pe-detection-with-keras-model-creation#Peek
+https://www.kaggle.com/allunia/pulmonary-dicom-preprocessing
+
