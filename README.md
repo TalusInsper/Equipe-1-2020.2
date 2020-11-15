@@ -6,6 +6,8 @@ Devido a grande quantidade de arquivos do dateset que estamos trabalhando (912.1
 Segue o link:
 https://www.kaggle.com/paulok98/projeto-1-talus
 
+Alguns códigos também serão executados aqui em outras branches, e se for validado como relevante para o desenvolvimento do projeto, será passado para o link do notebook no Kaggle e para a master deste git.
+
 ## Metas para a entrega 15/11
 * Ter conhecimento básico de arquivos do tipo DICOM
 * Leitura e análise preliminar do dataset
